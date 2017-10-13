@@ -1,0 +1,38 @@
+body{ 
+	background-color: pink; 
+}
+
+a:link{
+	backround-color: purple;
+	
+}
+
+a:visited{
+		background-color: turquoise;
+		background-color: turquoise;
+}
+
+a:hover{
+		background-color: purple;
+		background-color: turquoise;
+		font-size: 50px;
+}
+
+div{
+		background-color: turquoise; 
+		color: purple; 
+		margin:30px;
+		padding:275px;
+		border-radius: 30px;
+		text-align: center;
+
+}
+
+#catBullet{
+	color:purple;
+	font-weight: bolder;
+	
+}
+
+
+
