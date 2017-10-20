@@ -22,14 +22,13 @@ div{
 		background-color: turquoise; 
 		color: purple; 
 		margin:30px;
-		padding:275px;
 		border-radius: 30px;
 		text-align: center;
 
 }
 
 #catBullet{
-	color:purple;
+	color:pink;
 	font-weight: bolder;
 	
 }
