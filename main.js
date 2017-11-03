@@ -26,3 +26,13 @@ function shake8Ball(){
 }
 
 	//alert(randomNumber());
+
+
+/*
+below is code for Tic Tac Toe
+*/
+
+//handles X and O turns
+function turn(location){
+	document.getElementById(location). innerHTML="X";
+}
