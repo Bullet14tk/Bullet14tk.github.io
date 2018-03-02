@@ -68,6 +68,12 @@ ul{
 
 
 
+@font-face
+{
+font-family: lovely_day;
+src: url('lovely_day.ttf'),
+url('lovely_day.eot');
+
 }
 
 
