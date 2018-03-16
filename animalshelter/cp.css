@@ -7,7 +7,7 @@
 body{ 
 	background-color: pink;
 	color: turquoise; 
-	font-family: lovelyday;
+	
 }
 
 a:link{
@@ -32,6 +32,7 @@ a:hover{
 		padding: 25px;
 		border-radius: 30px;
 		text-align: center;
+		font-family: lovelyday;
 
 }
 
